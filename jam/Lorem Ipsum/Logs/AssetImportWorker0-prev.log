@@ -1,0 +1,726 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.2f1 (a9779f353c9b) revision 11106207'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 31861 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Nataniel" at "2026-01-08T13:24:49.9290511Z"
+Date: 2026-01-08T13:24:49Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Programming/IZHV/Dice Dungeon
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61512
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: D:/Programming/IZHV/Dice Dungeon
+D:/Programming/IZHV/Dice Dungeon
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [28676]  Target information:
+
+Player connection [28676]  * "[IP] 192.168.1.148 [Port] 0 [Flags] 2 [Guid] 2798568710 [EditorId] 2798568710 [Version] 1048832 [Id] WindowsEditor(7,Nataniel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [28676]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2798568710 [EditorId] 2798568710 [Version] 1048832 [Id] WindowsEditor(7,Nataniel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [28676]  * "[IP] 172.22.16.1 [Port] 0 [Flags] 2 [Guid] 2798568710 [EditorId] 2798568710 [Version] 1048832 [Id] WindowsEditor(7,Nataniel-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [28676] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [28676] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.2f1 (a9779f353c9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Programming/IZHV/Dice Dungeon/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 7900 XT (ID=0x744c)
+    Vendor:   ATI
+    VRAM:     20464 MB
+    Driver:   32.0.22029.9039
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56364
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              450d447d430b4c3188336bcf231bb99e
+  Correlation Id:          7c55eb9411a916f4c35a41ffffaa7ea0
+  External correlation Id: 3320160055981216392
+  Machine Id:              BoBu53vWB7PmDqRJM0OvrfMKlpc=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Nataniel" (connect: 0.00s, validation: 0.00s, handshake: 0.61s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Nataniel-notifications" at "2026-01-08T13:24:50.5410152Z"
+[Licensing::Module] Licensing Background thread has ended after 0.61s
+[Licensing::Module] Licensing is initialized (took 0.16s).
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 7972504573110-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.166771 seconds.
+- Loaded All Assemblies, in  0.473 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 194 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.506 seconds
+Domain Reload Profiling: 976ms
+	BeginReloadAssembly (103ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (202ms)
+	LoadAllAssembliesAndSetupDomain (126ms)
+		LoadAssemblies (100ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (123ms)
+			TypeCache.Refresh (121ms)
+				TypeCache.ScanAssembly (111ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (506ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (477ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (264ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (102ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.465 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.410 seconds
+Domain Reload Profiling: 872ms
+	BeginReloadAssembly (150ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (256ms)
+		LoadAssemblies (193ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (129ms)
+			TypeCache.Refresh (104ms)
+				TypeCache.ScanAssembly (95ms)
+			BuildScriptInfoCaches (19ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (410ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (329ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (79ms)
+			ProcessInitializeOnLoadAttributes (209ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3855 unused Assets / (1.0 MB). Loaded Objects now: 4438.
+Memory consumption went from 92.5 MB to 91.5 MB.
+Total: 5.596400 ms (FindLiveObjects: 0.389200 ms CreateObjectMapping: 0.263500 ms MarkObjects: 4.185100 ms  DeleteObjects: 0.758000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1563.296046 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1fe5222dcfe954902ba31b25791d59c0') in 0.0363336 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.545470 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb10f4fe5855b457c22995e8a92684cf') in 0.0004881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 7571.053322 seconds.
+  path: Assets/AngeloMaN87/Prototype Map/Materials/PrototypeMap.mat
+  artifactKey: Guid(f33991274cb50c047b101035d76c934e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AngeloMaN87/Prototype Map/Materials/PrototypeMap.mat using Guid(f33991274cb50c047b101035d76c934e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd11707ef7416745978e7e1567cae5f98') in 0.0743832 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/AngeloMaN87/Prototype Map/Models
+  artifactKey: Guid(cb51899516a952b478dad9c835b34e3b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AngeloMaN87/Prototype Map/Models using Guid(cb51899516a952b478dad9c835b34e3b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7b629ea7127030106850075db97129ab') in 0.0093018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/AngeloMaN87
+  artifactKey: Guid(19ffcdce2e3024743b9d67f2cd25e4b6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AngeloMaN87 using Guid(19ffcdce2e3024743b9d67f2cd25e4b6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '58973069b90a03f371841da70efd9ead') in 0.0081419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/AngeloMaN87/Prototype Map
+  artifactKey: Guid(75867872c367b0341b7bbd266ae87ebe) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AngeloMaN87/Prototype Map using Guid(75867872c367b0341b7bbd266ae87ebe) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e0f750ad15918378822fb81d0b6f30dd') in 0.0081085 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/AngeloMaN87/Prototype Map/Textures
+  artifactKey: Guid(a1e753a0ca5ff064b85a52516380beba) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AngeloMaN87/Prototype Map/Textures using Guid(a1e753a0ca5ff064b85a52516380beba) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '35ef712bfd63adda9033c187b336c626') in 0.0085457 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/AngeloMaN87/Prototype Map/Materials/PrototypeMap_Obstacles.mat
+  artifactKey: Guid(b9e8e2fc0724d5941ad454b0ddf9d947) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AngeloMaN87/Prototype Map/Materials/PrototypeMap_Obstacles.mat using Guid(b9e8e2fc0724d5941ad454b0ddf9d947) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0b2f45459da2e8270e548b73af860044') in 0.0133503 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AngeloMaN87/Prototype Map/Prefabs
+  artifactKey: Guid(d81e903922d7b0741a0d23f5bfbb9fd0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AngeloMaN87/Prototype Map/Prefabs using Guid(d81e903922d7b0741a0d23f5bfbb9fd0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '59b7fdf0c88b794e10a7c6c1398e75a9') in 0.0090114 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/AngeloMaN87/Prototype Map/Models/PrototypeMap.FBX
+  artifactKey: Guid(be3ed9816d019ff4a85901f7a3aae376) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/AngeloMaN87/Prototype Map/Models/PrototypeMap.FBX using Guid(be3ed9816d019ff4a85901f7a3aae376) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '52ec28da0dfef4b3efb844939130f77e') in 0.0416928 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.429 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.434 seconds
+Domain Reload Profiling: 862ms
+	BeginReloadAssembly (164ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (214ms)
+		LoadAssemblies (196ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (89ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (78ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (434ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (350ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (90ms)
+			ProcessInitializeOnLoadAttributes (212ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3853 unused Assets / (0.7 MB). Loaded Objects now: 4444.
+Memory consumption went from 94.1 MB to 93.3 MB.
+Total: 6.056500 ms (FindLiveObjects: 0.359200 ms CreateObjectMapping: 0.103400 ms MarkObjects: 4.943800 ms  DeleteObjects: 0.649200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 556.574266 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_AO.png
+  artifactKey: Guid(fe0d5dfaffd711b47b45de2d241229eb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_AO.png using Guid(fe0d5dfaffd711b47b45de2d241229eb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter)[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+ -> (artifact id: '5386e7c5e93e403abfbd361003009712') in 0.0857334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_AO.png
+  artifactKey: Guid(3aab6cb6b40ad804984806bface2138e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_AO.png using Guid(3aab6cb6b40ad804984806bface2138e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '005016c60e48602c102c9f076bb397c8') in 0.0141763 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Normal.png
+  artifactKey: Guid(bbd1d9ce7df34e84fa146a2789b3fe9a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Normal.png using Guid(bbd1d9ce7df34e84fa146a2789b3fe9a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5404a1b42dc44e677da878abc6abaa91') in 0.0133188 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Normal.png
+  artifactKey: Guid(9328d0bc35ab9d64bb6c2b225c266347) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Normal.png using Guid(9328d0bc35ab9d64bb6c2b225c266347) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7f21b30b8c81104380a95b5c42418216') in 0.0136125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_AO.png
+  artifactKey: Guid(16973ba73eb7acc498dce98490adec69) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_AO.png using Guid(16973ba73eb7acc498dce98490adec69) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '09b430992e56e14805fc3c2efa479b3d') in 0.0129812 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Albedo.png
+  artifactKey: Guid(24dd8142fdda1224094af3a991fc103e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Albedo.png using Guid(24dd8142fdda1224094af3a991fc103e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f0f4aba7ba85a6a0472aea1305bd9919') in 0.0131304 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Dice_6/Demo
+  artifactKey: Guid(2370dfce9ece2134593b738cd63b41ad) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Demo using Guid(2370dfce9ece2134593b738cd63b41ad) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '302944be2d065a58911b50802c8b482b') in 0.0098666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Normal.png
+  artifactKey: Guid(30979f4a80ac5e0448471703388fe7f0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Normal.png using Guid(30979f4a80ac5e0448471703388fe7f0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ff16a8227d232b78924ad29973d5450f') in 0.0130011 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Normal.png
+  artifactKey: Guid(0a54f3c455c17ed40a7d079bd269cec5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Normal.png using Guid(0a54f3c455c17ed40a7d079bd269cec5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e6fd2d21a969fe94bff1a18bbbcabb8f') in 0.0135422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Rough Scratched blue
+  artifactKey: Guid(673b93dc976256b4f9dc2eb4b6e5b37d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Rough Scratched blue using Guid(673b93dc976256b4f9dc2eb4b6e5b37d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'dae83cc3650bde2d7d55164fbe4a692c') in 0.0089852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_AO.png
+  artifactKey: Guid(c4b7e3a314eb4cc42b832cddf06abf15) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_AO.png using Guid(c4b7e3a314eb4cc42b832cddf06abf15) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '565ce87fc13c74f259084ead6e5db7f9') in 0.0119388 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Dice_6/Prefabs/Dice_d6_Plastic Glossy Pure red.prefab
+  artifactKey: Guid(3a83d1b770fe0e34ea0ec9f13369f5fd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Prefabs/Dice_d6_Plastic Glossy Pure red.prefab using Guid(3a83d1b770fe0e34ea0ec9f13369f5fd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '696d9ee739f0b8212dbd5dcfcfb23f3b') in 0.0362945 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Metallic.png
+  artifactKey: Guid(a3cd66d0e2aca2f46adad530c613dba8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Metallic.png using Guid(a3cd66d0e2aca2f46adad530c613dba8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f7036f2e22e927ad93aaae29999de97a') in 0.0107765 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Dice_6/Textures
+  artifactKey: Guid(16d2257a587136647ae36fd07e16b6c1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures using Guid(16d2257a587136647ae36fd07e16b6c1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b8a7f30e2bed3fbd060f6169b62592d7') in 0.0100759 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Height.png
+  artifactKey: Guid(5b9de5619f1c0ff4a8f4a920bec0bd1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Height.png using Guid(5b9de5619f1c0ff4a8f4a920bec0bd1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '88195498c51b0f7208f2cf73c28e99a3') in 0.0133075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Rough Scratched blue
+  artifactKey: Guid(1601fc85826811249aca5e30c297f1cb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Rough Scratched blue using Guid(1601fc85826811249aca5e30c297f1cb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5121449244681b4ce38c50864d20af85') in 0.0083907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Dice_6/Textures/512
+  artifactKey: Guid(5d6ec87fd9f866144bf000009fe21566) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512 using Guid(5d6ec87fd9f866144bf000009fe21566) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bff3ec4a923eecb31f256e5ed58909fb') in 0.0098995 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Dice_6
+  artifactKey: Guid(b0837220008325a48ab79da278c595d6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6 using Guid(b0837220008325a48ab79da278c595d6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8c1901fa84ceddacded211e9c9edc461') in 0.0083132 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Roughness.png
+  artifactKey: Guid(2a138f60939fa204eb93fdb353cfc92c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Roughness.png using Guid(2a138f60939fa204eb93fdb353cfc92c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '695d716de78a684d7059cce46b18e78c') in 0.0123529 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Albedo.png
+  artifactKey: Guid(fadea2bd9f2067644af63128c6451c26) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Albedo.png using Guid(fadea2bd9f2067644af63128c6451c26) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f24df258a3b72b4a0c5b75050ac34d9a') in 0.0130241 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Metallic.png
+  artifactKey: Guid(30765fa1978fe244fb3f467caad5e93e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Metallic.png using Guid(30765fa1978fe244fb3f467caad5e93e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c1290df8621710c58b81243d271b9da4') in 0.0143703 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Height.png
+  artifactKey: Guid(2fab454dc55e30a4f9a8aac740058ba3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Height.png using Guid(2fab454dc55e30a4f9a8aac740058ba3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ac620d03cb5a96218c0514694b007168') in 0.0141357 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Roughness.png
+  artifactKey: Guid(71ce7d535ca02be48996a5180f8eee0b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Roughness.png using Guid(71ce7d535ca02be48996a5180f8eee0b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ba929a0dcf1de7f5a8700e30aab2166c') in 0.0124663 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_AO.png
+  artifactKey: Guid(98ce63e73441b024ebc599c42c985a28) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_AO.png using Guid(98ce63e73441b024ebc599c42c985a28) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4dd52f7e6941662ee844fecfeda9cfee') in 0.0124476 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_AO.png
+  artifactKey: Guid(bed40957800a0564db0dc786dbf9290f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_AO.png using Guid(bed40957800a0564db0dc786dbf9290f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'df94f76faf7b6568592dd6850493535b') in 0.0174545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_AO.png
+  artifactKey: Guid(93a0f6a6b4ff5924fb5838eebd42ab86) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_AO.png using Guid(93a0f6a6b4ff5924fb5838eebd42ab86) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0633e4614766912eb8f7d8c39d8c5802') in 0.0151956 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Roughness.png
+  artifactKey: Guid(84b090d050288ea4c914df2bb2a08440) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Roughness.png using Guid(84b090d050288ea4c914df2bb2a08440) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '642516a3f4ea4be308663ca67ca5e3e8') in 0.0147101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Roughness.png
+  artifactKey: Guid(b8e1d0bc2e275a243ba7235af1c572c9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Roughness.png using Guid(b8e1d0bc2e275a243ba7235af1c572c9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '992cfcd33096f5d1f61c55b802fbe19c') in 0.0130938 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Dice_6/Prefabs/Dice_d6_Plastic Glossy Pure write.prefab
+  artifactKey: Guid(0d2b9188252a78b4298fb8e34d9229ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Prefabs/Dice_d6_Plastic Glossy Pure write.prefab using Guid(0d2b9188252a78b4298fb8e34d9229ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ff86b0a97f0c2dd58f99831c5b65f9f0') in 0.01126 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Dice_6/Meshes
+  artifactKey: Guid(9e7c747b6f075dd4baa1acd327f143a0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Meshes using Guid(9e7c747b6f075dd4baa1acd327f143a0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '907a315289d753148f3fc9315b886e5a') in 0.0088613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Dice_6/Meshes/Dice_d6.fbx
+  artifactKey: Guid(8d400ad96dc116647b0dfeba5b490335) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Meshes/Dice_d6.fbx using Guid(8d400ad96dc116647b0dfeba5b490335) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '389afe4797a29d9b39634bf1da249241') in 0.0328987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Dice_6/Materials/Plastic Glossy Pure red.mat
+  artifactKey: Guid(0711445adf5d30c40bd0eb92c9335290) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Materials/Plastic Glossy Pure red.mat using Guid(0711445adf5d30c40bd0eb92c9335290) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7f49b5a5c942bf7700f2feeb12094da6') in 0.042439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Dice_6/Materials/Plastic Glossy Pure blue.mat
+  artifactKey: Guid(2a10483549764b84ea60530965daaf97) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Materials/Plastic Glossy Pure blue.mat using Guid(2a10483549764b84ea60530965daaf97) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f017768914081ac66a6dc7940436e85d') in 0.0188028 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Roughness.png
+  artifactKey: Guid(efdec088b171a774e91dc827960ea8c7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Roughness.png using Guid(efdec088b171a774e91dc827960ea8c7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0141442b4ccc38ce54b60f5886d76c46') in 0.0159957 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Dice_6/Materials/Plastic Rough Scratched blue.mat
+  artifactKey: Guid(cbff638bf8da3fd4e802669397794885) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Materials/Plastic Rough Scratched blue.mat using Guid(cbff638bf8da3fd4e802669397794885) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '694d52c419ea48772244521ff119dd77') in 0.0161833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Height.png
+  artifactKey: Guid(82dfc030a1e8cf14d99173b02e1fe7c4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Height.png using Guid(82dfc030a1e8cf14d99173b02e1fe7c4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b63b2ea83f681613b9fb02667656fb64') in 0.0125509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Height.png
+  artifactKey: Guid(68aad4f4d20bd1743a2e53237e0b511c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Height.png using Guid(68aad4f4d20bd1743a2e53237e0b511c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'cecc1865fa2d4de557304622f235d990') in 0.0108782 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Dice_6/Prefabs/Dice_d6_Plastic Rough Scratched red.prefab
+  artifactKey: Guid(97c3c101a2a52aa47817bd3b97936311) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Prefabs/Dice_d6_Plastic Rough Scratched red.prefab using Guid(97c3c101a2a52aa47817bd3b97936311) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '43156d25802268067f69fe3ac0d1f5a5') in 0.0105725 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Dice_6/Documentation/Readmy.txt
+  artifactKey: Guid(cfac0d1355d0f504f841fad7900ab23a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Documentation/Readmy.txt using Guid(cfac0d1355d0f504f841fad7900ab23a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b2355dfbe3c0ec4ba4e197f215328013') in 0.0091788 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Normal.png
+  artifactKey: Guid(977ffd0b5c26bd04398f17e71c45be3f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Normal.png using Guid(977ffd0b5c26bd04398f17e71c45be3f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3621b9d34087dd8a9d964b30a4711e02') in 0.0110148 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Metallic.png
+  artifactKey: Guid(cf269553411a6c1488fd9a1f6fd2f4a0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Metallic.png using Guid(cf269553411a6c1488fd9a1f6fd2f4a0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ab03e5cd0f34a3e00a6b60e9eb0cf0db') in 0.0102988 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Dice_6/Materials/Plastic Rough Scratched red.mat
+  artifactKey: Guid(ca1eda824ec216941b17f26ea3a0693f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Materials/Plastic Rough Scratched red.mat using Guid(ca1eda824ec216941b17f26ea3a0693f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '94f9ca2be42764d36f6b5d8d6004d434') in 0.0161255 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Normal.png
+  artifactKey: Guid(7ae29913566db274285a08e9df5661bd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Normal.png using Guid(7ae29913566db274285a08e9df5661bd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9cd8678c9d1d559df6f1b6aa93d3c1b9') in 0.0087198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Glossy Pure write
+  artifactKey: Guid(5c29bd6a8e30ec44e8af542509bbb216) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Glossy Pure write using Guid(5c29bd6a8e30ec44e8af542509bbb216) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f5b4704bc2ae4b9ecf3a3640561e80a5') in 0.0089123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Dice_6/Textures/512/Plastic Glossy Pure blue
+  artifactKey: Guid(b3fee8e041b725a4491e6f6b7abe1337) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Dice_6/Textures/512/Plastic Glossy Pure blue using Guid(b3fee8e041b725a4491e6f6b7abe1337) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '91daa6b75f605e97ebcf93a6f0e829f6') in 0.008342 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
